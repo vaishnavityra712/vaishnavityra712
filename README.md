@@ -1,7 +1,7 @@
 ### Hi there 👋 Vaishnavi Achanta here :) !!
 <h4>∘🤖 Microsoft Learn Student Ambassador<br></h4>
 <h4>∘🤖 Front End Developer<br></h4>
-<h4>∘🤖 vaishnavityra712@gmail.com</h4>
+<a href="mailto:vaishnavityra712@gmail.com">∘🤖 vaishnavityra712@gmail.com</a>
 <!--
 **vaishnavityra712/vaishnavityra712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
