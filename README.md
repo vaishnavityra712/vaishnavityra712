@@ -1,7 +1,13 @@
 ### Hi there 👋 Vaishnavi Achanta here :) !!
-∘🤖 Microsoft Learn Student Ambassador<br>
-∘🤖 Front End Developer<br>
-∘🤖 vaishnavityra712@gmail.com
+<div class="container">
+  <div class="row">
+    <div class="col">Column</div>
+    <div class="col">Column</div>
+    <div class="w-100"></div>
+    <div class="col">Column</div>
+    <div class="col">Column</div>
+  </div>
+</div>
 <!--
 **vaishnavityra712/vaishnavityra712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,5 +20,10 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...<h4>∘🤖 Microsoft Learn Student Ambassador<br></h4>
+<h4>∘🤖 Front End Developer<br></h4>
+<h4>∘🤖 vaishnavityra712@gmail.com</h4>
 -->
+<style>
+  
+</style>
