@@ -1,5 +1,5 @@
-### Hi there 👋
-## Vaishnavi Achanta here :) !!
+### Hi there 👋 Vaishnavi Achanta here :) !!
+🔭 Microsoft Learn Student Ambassador
 <!--
 **vaishnavityra712/vaishnavityra712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
