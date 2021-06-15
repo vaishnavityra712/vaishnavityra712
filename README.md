@@ -1,4 +1,4 @@
-### Hi there 👋 _Vaishnavi Achanta here :) !!_
+### Hi there 👋 _Vaishnavi Achanta_ here :) !!
 <h4>∘🤖 Microsoft Learn Student Ambassador<br></h4>
 <h4>∘🤖 Skills : HTML, CSS, FLASK, MSQL <br></h4>
 <h4>∘🤖 vaishnavityra712@gmail.com</h4>
