@@ -12,6 +12,8 @@
 
 <hr>
  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavityra712&layout=compact)](https://github.com/vaishnavityra712/github-readme-stats)
+
 
 
 <!--
