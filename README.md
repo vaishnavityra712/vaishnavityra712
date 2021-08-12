@@ -12,7 +12,9 @@
 
 <hr>
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavityra712&layout=compact)](https://github.com/vaishnavityra712/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavityra712&layout=compact&theme=compact)](https://github.com/vaishnavityra712/github-readme-stats)
+
+[![Vaishnavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaishnavityra712&theme=synthwave)](https://github.com/vaishnavityra712/github-readme-stats)
 
 
 
