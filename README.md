@@ -1,14 +1,19 @@
-### Hi there 👋 _Vaishnavi Achanta_ here :) !!
-<h4>∘🤖 Microsoft Learn Student Ambassador<br></h4>
-<h4>∘🤖 Skills : HTML, CSS, FLASK, MSQL, Learning Django <br></h4>
-<h4>∘🤖 vaishnavityra712@gmail.com</h4>
+# Hi there 👋 _Vaishnavi Achanta_ here :) !!
+
+- 🌱 I’m currently learning Django and javaScript
+- 👯 I’m looking to collaborate on Open source
+- 🤔 I’m looking for help with Javascript frameworks
+- 💬 Ask me about HTML, CSS, Django, Flask, MySql
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/achantavaishnavi), [Instagram](https://www.instagram.com/marshmello_24_7/)
+- 😄 Pronouns: She/ Her
+- ⚡ Fun fact: Stop living in your Head, Wanderers are great achievers.
 
 <hr>
 
 ### _About Me :) !_ 
 :octocat:
 :octocat:
-<p>I'm a second year student pursuing my B.E in Computer Science and Engineering in Sathyabama University, Chennai. Exploring through Computer Science domains, currently gaining interest in Web Development. I'm a very quick grasper and love to help others and a great team worker :). </p>
+<p>I'm a second year student pursuing my B.E in Computer Science and Engineering in Sathyabama University, Chennai. Exploring through Computer Science domains, currently gaining interest in Web Development. I'm a very quick grasper and love to help others and a great team worker :). Have experience in working with Django and Flask frame work and getting into the JavaScript lane.</p>
 
 <hr>
  
