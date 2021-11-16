@@ -13,7 +13,7 @@
 ### _About Me :) !_ 
 :octocat:
 :octocat:
-<p>I'm a second year student pursuing my B.E in Computer Science and Engineering in Sathyabama University, Chennai. Exploring through Computer Science domains, currently gaining interest in Web Development. I'm a very quick grasper and love to help others and a great team worker :). Have experience in working with Django and Flask frame work and getting into the JavaScript lane.</p>
+<p>I'm a undergrad student pursuing my B.E in Computer Science and Engineering in Sathyabama University, Chennai. Exploring through Computer Science domains, currently gaining interest in Web Development. I'm a very quick grasper and love to help others and a great team worker :). Have experience in working with Django and Flask frame work and getting into the JavaScript lane.</p>
 
 <hr>
  
