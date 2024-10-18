@@ -1,6 +1,6 @@
 # Hi there 👋 _Vaishnavi Achanta_ here :) !!
 
-- 🌱 I’m currently a part of AMAZON ![Uploading AmazonPrimeGIF.gif…]()
+- 🌱 I’m currently a part of AMAZON !
 
 - 👯 I’m looking to collaborate on Open source
 - 🤔 I’m looking for help with Javascript frameworks
