@@ -1,6 +1,7 @@
 # Hi there 👋 _Vaishnavi Achanta_ here :) !!
 
-- 🌱 I’m currently learning Django and javaScript
+- 🌱 I’m currently a part of AMAZON ![Uploading AmazonPrimeGIF.gif…]()
+
 - 👯 I’m looking to collaborate on Open source
 - 🤔 I’m looking for help with Javascript frameworks
 - 💬 Ask me about HTML, CSS, Django, Flask, MySql
