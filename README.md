@@ -14,7 +14,37 @@
 ### _About Me :) !_ 
 :octocat:
 :octocat:
-<p>I'm a undergrad student pursuing my B.E in Computer Science and Engineering in Sathyabama University, Chennai. Exploring through Computer Science domains, currently gaining interest in Web Development. I'm a very quick grasper and love to help others and a great team worker :). Have experience in working with Django and Flask frame work and getting into the JavaScript lane.</p>
+<p>Turning logistics insights into data-driven decisions
+
+Hi there! I'm Currently a Transportation Specialist with almost 2 years of experience at Amazon, where I managed complex logistics operations across Europe, optimized asset movements, and identified process inefficiencies using data. Now, I’m on a journey to become a Business/Data Analyst — blending my operations background with technical skills in SQL, Excel, Power BI, and Python.
+
+🔍 What I bring:
+📦 Real-world logistics data experience
+
+📊 KPI dashboards and performance tracking
+
+🔄 Process optimization through data analysis
+
+🧮 Hands-on with Excel, SQL, Power BI & Python (pandas, matplotlib)
+
+🚀 Projects (in progress or completed):
+📈 Transportation Cost Optimization Dashboard – Built using Power BI
+
+🗃️ Shipment Delay Analysis – Python + Excel project on delay trends
+
+📊 Amazon Empty Asset Movement Case Study – Operational insights + mock analysis
+
+🧰 SQL Portfolio – Sample queries from mock logistics datasets
+
+📚 Currently learning:
+Advanced Power BI (DAX & visuals)
+
+Python for data storytelling
+
+Real-world business case analysis
+
+🎯 Goal:
+To land a Business Analyst or BI Analyst role where I can turn operational data into strategic insights.</p>
 
 <hr>
  
