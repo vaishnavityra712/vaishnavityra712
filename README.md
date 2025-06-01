@@ -2,12 +2,11 @@
 
 - 🌱 I’m currently a part of AMAZON !
 
-- 👯 I’m looking to collaborate on Open source
-- 🤔 I’m looking for help with Javascript frameworks
-- 💬 Ask me about HTML, CSS, Django, Flask, MySql
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/achantavaishnavi), [Instagram](https://www.instagram.com/marshmello_24_7/)
-- 😄 Pronouns: She/ Her
-- ⚡ Fun fact: Stop living in your Head, Wanderers are great achievers.
+- 👯 I’m looking to collaborate on Analysis and deep diving on insights
+- 🤔 I’m looking for help with Data warehousing 
+- 💬 Ask me about SQL, MS-EXCEL, POWER BI
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/achantavaishnavi)
+- ⚡ Motto of life is: Experience & experiment Everything 
 
 <hr>
 
@@ -16,7 +15,7 @@
 :octocat:
 <p>Turning logistics insights into data-driven decisions
 
-Hi there! I'm Currently a Transportation Specialist with almost 2 years of experience at Amazon, where I managed complex logistics operations across Europe, optimized asset movements, and identified process inefficiencies using data. Now, I’m on a journey to become a Business/Data Analyst — blending my operations background with technical skills in SQL, Excel, Power BI, and Python.
+Hi there! I'm currently a Transportation Analyst with almost 2 years of experience at Amazon, where I managed complex logistics operations across Europe, optimized asset movements, and identified process inefficiencies using data. Now, I’m on a journey to become a Business/Data Analyst — blending my operations background with technical skills in SQL, Excel, Power BI, and Python.
 
 🔍 What I bring:
 📦 Real-world logistics data experience
