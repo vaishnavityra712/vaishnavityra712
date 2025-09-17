@@ -4,7 +4,7 @@
 
 - 👯 I’m looking to collaborate on Analysis and deep diving on insights
 - 🤔 I’m looking for help with Data warehousing 
-- 💬 Ask me about SQL, MS-EXCEL, POWER BI
+- 💬 Ask me about SQL, MS-EXCEL, POWER BI, Data Wrangling, Data Cleaning, Python
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/achantavaishnavi)
 - ⚡ Motto of life is: Experience & experiment Everything 
 
